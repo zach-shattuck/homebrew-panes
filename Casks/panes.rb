@@ -7,7 +7,7 @@ cask "panes" do
   desc "Windows desktop comforts for macOS"
   homepage "https://github.com/zach-shattuck/panes"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Panes.app"
 
