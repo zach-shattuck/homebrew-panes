@@ -1,6 +1,6 @@
 cask "panes" do
-  version "0.1.4"
-  sha256 "64ba2f5eee2120aeeb6417dbc302c239ec9cbd9d64e6c5b7c74ffb7c6a3dff8d"
+  version "0.1.5"
+  sha256 "3168d30749f311a83c897a2978ee03f0caa516a7c231f21f44bdf5be6e53a771"
 
   url "https://github.com/zach-shattuck/panes/releases/download/v#{version}/Panes.zip"
   name "Panes"
